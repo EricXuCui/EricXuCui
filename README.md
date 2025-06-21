@@ -17,7 +17,7 @@ I'm a Computer Science student at McGill University with strong interests in AI,
 
 ## 🔗 Links
 - 🌐 [My Personal Site](https://ericxucui.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ericxucui))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ericxucui)
 
 
 
