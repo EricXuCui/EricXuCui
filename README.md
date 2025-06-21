@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at McGill University with strong interests in AI, robotics, math, and game development.
 
-- 🤖 Currently building a Reinforcement Learning + Unreal Engine project using C++ and UE Learning Agents.
+- 🤖 Currently building a Reinforcement Learning + Unreal Engine project by using C++ and UE Learning Agents.
 - 🧠 Exploring classic algorithms and modern machine learning to build intelligent, interactive experiences  
 - 📬 Reach out: ericxucui.work@gmail.com / eric.cui@mail.mcgill.ca  
 - 🎮 Fun fact: I'm a hardcore Rainbow Six Siege player—I love mastering its tactical combat mechanics.
