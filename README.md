@@ -7,6 +7,10 @@ I'm a Computer Science student at McGill University with strong interests in AI,
 - 📬 Reach out: ericxucui.work@gmail.com / eric.cui@mail.mcgill.ca  
 - 🎮 Fun fact: I'm a hardcore Rainbow Six Siege player—I love mastering its tactical combat mechanics.
 
+## 🔗 Links
+- 🌐 [My Personal Site](https://ericxucui.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ericxucui)
+
 ## Most Used Languages
 
 <div align="center">
@@ -14,10 +18,6 @@ I'm a Computer Science student at McGill University with strong interests in AI,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricXuCui&layout=compact&hide_title=false" />
 
 </div>
-
-## 🔗 Links
-- 🌐 [My Personal Site](https://ericxucui.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ericxucui)
 
 
 
