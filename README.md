@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**EricXuCui/EricXuCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm EricXu 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science student at McGill University with a strong interest in AI, robotics, math, and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Currently building a Reinforcement Learning + Unreal Engine project with C++ and Unreal Learning Agents
+- ⚙️ Exploring classic programming techniques with modern machine learning to create intelligent, immersive experiences.
+- 📬 Reach out: ericxucui.work@gmail.com / eric.cui@mail.mcgill.ca
+- 🎮 Fun fact: I thrive on tough Rainbow6 siege is my all-time favorite, and I love mastering its combat mechanism. =
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricXuCui&layout=compact)
+
+
