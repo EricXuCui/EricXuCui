@@ -7,7 +7,7 @@ I'm a Computer Science student at McGill University with strong interests in AI,
 - 📬 Reach out: ericxucui.work@gmail.com / eric.cui@mail.mcgill.ca  
 - 🎮 Fun fact: I'm a hardcore Rainbow Six Siege player—I love mastering its tactical combat mechanics.
 
-📌 Based in Montréal, Québec, Canada / Metro Vancouver, British Columbia, Canada
+📌 Located in Montréal, Québec, Canada / Metro Vancouver, British Columbia, Canada
 
 ## 🔗 Links
 - 📄 [Resume](https://ericxucui.com/wp-content/uploads/2025/06/Eric-Xu-Cui-Tech_Resume.pdf)
