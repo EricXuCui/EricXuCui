@@ -11,7 +11,7 @@ I'm a Computer Science student at McGill University with strong interests in AI,
 
 ## 🔗 Links
 - 📄 [Resume](https://www.ericxucui.com/wp-content/uploads/2025/09/Eric-Xu-Cui-Tech_Resume.pdf)
-- 🌐 [My Personal Site](https://ericxucui.com/)
+- 🌐 [My Personal Site](https://ericxucui.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ericxucui)
 - 🎬 [BiliBili](https://space.bilibili.com/362519011?spm_id_from=333.1007.0.0) / [Youtube](https://www.youtube.com/@ericxucui2916)
 
